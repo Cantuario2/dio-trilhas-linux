@@ -1,2 +1,7 @@
-# dio-trilhas-linux
-Repositório para material relativo às trilhas e aos Bootcamps Linux feitos na Dio.
+# Dio - Bootcamp Santander Linux para Iniciantes
+
+Repositório dos projetos do BootCamp Santander Linux para Inciantes.
+
+cantuario2 - 27/03/2025
+### Rev. 00
+
